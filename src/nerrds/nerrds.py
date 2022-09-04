@@ -15,7 +15,7 @@ from nerrds import run_ansurr
 from nerrds import reweight_bme
 from nerrds.functions import check_quiet_print
 
-nerrds_version = "0.0.104"
+nerrds_version = "0.0.105"
 
 def main():
 
