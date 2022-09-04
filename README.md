@@ -118,4 +118,12 @@ ProDy | Zhang S, Krieger JM, Zhang Y, Kaya C, Kaynak B, Mikulska-Ruminska K, Dor
 
 Bayesian Maximum Entropy | Bottaro, S., Bengtsen, T., Lindorff-Larsen, K. (2020). Integrating Molecular Simulation and Experimental Data: A Bayesian/Maximum Entropy Reweighting Approach. In: Gáspári, Z. (eds) Structural Bioinformatics. Methods in Molecular Biology, vol 2112. Humana, New York, NY. https://doi.org/10.1007/978-1-0716-0270-6_15
 
+AmberTools | D.A. Case, H.M. Aktulga, K. Belfon, I.Y. Ben-Shalom, J.T. Berryman, S.R. Brozell, D.S. Cerutti, T.E. Cheatham, III, G.A. Cisneros, V.W.D. Cruzeiro, T.A. Darden, R.E. Duke, G. Giambasu, M.K. Gilson, H. Gohlke, A.W. Goetz, R. Harris, S. Izadi, S.A. Izmailov, K. Kasavajhala, M.C. Kaymak, E. King, A. Kovalenko, T. Kurtzman, T.S. Lee, S. LeGrand, P. Li, C. Lin, J. Liu, T. Luchko, R. Luo, M. Machado, V. Man, M. Manathunga, K.M. Merz, Y. Miao, O. Mikhailovskii, G. Monard, H. Nguyen, K.A. O'Hearn, A. Onufriev, F. Pan, S. Pantano, R. Qi, A. Rahnamoun, D.R. Roe, A. Roitberg, C. Sagui, S. Schott-Verdugo, A. Shajan, J. Shen, C.L. Simmerling, N.R. Skrynnikov, J. Smith, J. Swails, R.C. Walker, J. Wang, J. Wang, H. Wei, R.M. Wolf, X. Wu, Y. Xiong, Y. Xue, D.M. York, S. Zhao, and P.A. Kollman (2022), Amber 2022, University of California, San Francisco.
 
+ANSURR | Fowler, N.J., Sljoka, A. & Williamson, M.P. A method for validating the accuracy of NMR protein structures. Nat Commun 11, 6321 (2020). https://doi.org/10.1038/s41467-020-20177-1
+
+Random Coil Index (RCI) | Berjanskii, M.V. & Wishart, D.S. A simple method to predict protein flexibility using secondary chemical shifts. Journal of the American Chemical Society 127, 14970-14971 (2005).
+
+Floppy Inclusions and Rigid Substructure Topography (FIRST) | Jacobs, D.J., Rader, A.J., Kuhn, L.A. & Thorpe, M.F. Protein flexibility predictions using graph theory. Proteins-Structure Function and Genetics 44, 150-165 (2001).
+
+Probabilistic Approach to NMR Assignment and Validation (PANAV) | Bowei Wang, Yunjun Wang and David S. Wishart. "A probabilistic approach for validating protein NMR chemical shift assignments". Journal of Biomolecular NMR. Volume 47, Number 2 / June 2010: 85-99
